@@ -43,7 +43,6 @@
     }
     #titulo:hover{
         border-radius: 5vw;
-        background-color: #101010;
     }
     #s2:hover .divisoria{
         background-color: transparent;
