@@ -1,1 +1,3 @@
+## Project made in some minutes just to teach a friend...
+
 <img src="./print.png"/>
